@@ -2,8 +2,15 @@
 
 ![Caratula Sistemas Ciberfisicos](https://github.com/guelo2019/Sistemas-Ciberfisico---Proyecto-Final/assets/46485082/ac6a776a-db37-4186-93d5-7699ca5dcc99)
 
-
 # Proyecto final
+
+## Integrantes:
+
+- [GAZZOLA, Oscar Antonio](https://github.com/OscarAGazzola )
+- [RIPOLI, Enrique](https://github.com/enriqueripoli)
+- [SEGNANA, Miguel Angel](https://github.com/guelo2019 )
+
+#
 ## Objetivos: 
 
 ## 1. **Sistemas Ciberfísicos:** 
