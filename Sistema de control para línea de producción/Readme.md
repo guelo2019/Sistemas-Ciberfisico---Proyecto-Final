@@ -27,5 +27,6 @@
         •	Validar que el diseño cumpla con las especificaciones y que opere de manera eficiente y sin errores.
 
 ###    3.	Documentación:
-        •	Preparar una documentación completa que incluya el diseño del sistema, las decisiones tomadas durante el proceso de diseño, y los resultados de la simulación.
+        •	Preparar una documentación completa que incluya el diseño del sistema, las decisiones tomadas 
+            durante el proceso de diseño, y los resultados de la simulación.
         •	Incluir recomendaciones para futuras mejoras o expansiones del sistema.
