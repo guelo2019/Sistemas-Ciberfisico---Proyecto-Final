@@ -1,3 +1,3 @@
 
 ## Test 
-### Sector del Repositorio donde van las Simulaciones de pruebas. 
+### Sector del Repositorio donde se suben las Simulaciones de pruebas. 
