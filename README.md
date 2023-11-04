@@ -21,10 +21,4 @@
 - [x] Desarrollar habilidades para modelar, analizar y diseñar sistemas de automatización de eventos discretos. 
 - [x] Implementar soluciones de automatización que cumplan con especificaciones dadas, considerando la eficiencia, seguridad y fiabilidad. 
 
-##
-##
-##
-
-
-
 
