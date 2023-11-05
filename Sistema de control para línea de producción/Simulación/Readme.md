@@ -1,3 +1,16 @@
+# PROPUESTA:
+##
+Para esta actividad se propone la simulacion de una linea de llenado de botellas, la misma consta de las siguientes etapas:
+
+- [x] Sistema de llenado de tanque.
+- [x] Sistema dispensador de botellas.
+- [x] Sistema de tapado de botellas (Taponadora).
+- [x] Control de Calidad (Inspeccion visual de operario).
+- [x] Empaque y Etiquetado.
+- [x] Envio a deposito. 
+
+
+
 # SIMULACION
 
 Se suben los archivos de simulacion del Sistema de Control para línea de Producción.
