@@ -13,7 +13,7 @@ Para esta actividad se propone la simulacion de una linea de llenado de botellas
 
 El sistema funciona de la siguiente manera:
 
--  Con el pulsador Start, el sistema del tanque comienza a funcionar para tener un nivel de liquido optimo para el inicio del llenado de botellas.
+-  Con el pulsador Start, el sistema del tanque comienza a llenarse para tener un nivel de liquido optimo para el inicio del llenado de botellas.
 -  Con el boton de Marcha, se da inicio al proceso, se despacha una botella vacia y esta se traslada hasta la boquilla de llenado por la cinta transportadora. 
 -  En este punto, se opto por un temporizado para el llenado y detencion de la misma, esto debido a que no se encontro funcionalidad de botella "vacia" para poder incorporar sensores en esta etapa.
 -  Transurrido el tiempo seteado, la botella se traslada hasta la estacion de tapado, aqui tambien se opto una etapa temporizada.
