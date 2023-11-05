@@ -5,3 +5,5 @@ Se suben los archivos de simulacion del sistema CIP.
 
 Archivos .cad y .sim
 
+- [x] Sistema CIP.cad
+- [x] Sistema CIP_.sim
