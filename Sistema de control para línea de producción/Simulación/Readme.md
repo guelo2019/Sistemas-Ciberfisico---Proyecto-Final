@@ -9,6 +9,19 @@ Para esta actividad se propone la simulacion de una linea de llenado de botellas
 - [x] Empaque y Etiquetado.
 - [x] Envio a deposito. 
 
+# PRINCIPIO DE FUNCIONAMIENTO:
+
+El sistema funciona de la siguiente manera:
+
+-  Con el pulsador Start, el sistema del tanque comienza a funcionar para tener un nivel de liquido optimo para el inicio del llenado de botellas.
+-  Con el boton de Marcha, se da inicio al proceso, se despacha una botella vacia y esta se traslada hasta la boquilla de llenado por la cinta transportadora. 
+-  En este punto, se opto por un temporizado para el llenado y detencion de la misma, esto debido a que no se encontro funcionalidad de botella "vacia" para poder incorporar sensores en esta etapa.
+-  Transurrido el tiempo seteado, la botella se traslada hasta la estacion de tapado, aqui tambien se opto una etapa temporizada.
+-  Luego de esta instancia de "tapado", la botella se traslada a un sector de "inspeccion Visual" a modo de control de calidad.
+-  La siguiente estapa es la de envasado individual en cajas de carton.
+-  Posteriormente se realiza un etiquetado a la misma.
+-  La ultima etapa es la de envio.
+-  El tablero de control contiene un pulsador para parada de emergencia.
 
 
 # SIMULACION
